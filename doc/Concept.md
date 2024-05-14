@@ -25,3 +25,6 @@ Advantages und disadvantages
 | Minikube | - Easy to install and use. <br> - Has support for cluster monitoring and management.                                         | - Limited scaling capabilities.                                                        |
 | kind     | - Easy to use.                                                                                                               | - There is no possibility of automation. <br> - There may be difficulty in setting up. |
 | k3d      | - Quickly build and test Kubernetes clusters in Docker containers. <br> - Has support for cluster monitoring and management. | - There may be difficulty in setting up.                                               |
+
+Demo of k3d
+![Image](.data/demo.gif)
